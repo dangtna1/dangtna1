@@ -54,9 +54,9 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=dangtna1&show_icons=true&theme=algolia" />
       </td>
-      <td>
+<!--       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=dangtna1&theme=algolia" />
-      </td>
+      </td> -->
     </tr>
   </table>
 

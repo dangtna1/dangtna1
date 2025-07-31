@@ -16,7 +16,7 @@
 
 ## About Me
 
-- 🏢 I am currently working as a **Data Scientist** at [University of Lincoln for AutoTraits Project]([https://synx.games/](https://www.lincoln.ac.uk/liat/research/roboticphenotyping/))
+- 🏢 I am currently working as a **Data Scientist** at [University of Lincoln for AutoTraits Project]([https://synx.games/](https://www.lincoln.ac.uk/liat/research/roboticphenotyping/)
 - 🏢 Former **Software Engineer** at [Synx Games LTD](https://synx.games/)
 - 🏢 Former **Software Engineer** at [Codelight](https://codelight.co/)
 - 🎓 Studying MSc Data Science and Applied Analytics at [University of Lincoln](https://www.lincoln.ac.uk/)

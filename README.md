@@ -44,32 +44,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/-C-555555?logo=c&logoColor=white)
 <br>
 
-## GitHub Stats 📈
-
-<br>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dangtna1&show_icons=true&theme=algolia" />
-      </td>
-<!--       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dangtna1&theme=algolia" />
-      </td> -->
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangtna1&hide=C,Assembly,PHP,Makefile,HTML,CSS&layout=compact&theme=algolia">
-
-</div>
-
-
-<br>
-
 ## GitHub Thropies 🏆
 
 <br>

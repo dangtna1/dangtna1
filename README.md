@@ -23,7 +23,7 @@
 - 🎓 Studied BSc at [University of Technology (HCMUT)](https://hcmut.edu.vn/en)
 - 🏡 Living in **Lincoln, UK**
 - ⚡ **Fun Facts** : 🎮 🎶 📖 💻 🍕 - what a nerd! 
-- [GOAT] I've always loved working with numbers. Staring at massive data, uncover hidden patterns, building statistical models, and turning chaos into clarity - that is how I define fun.
+- [GOAT] I’ve always loved working with data at scale—designing pipelines, handling massive datasets, and transforming raw, chaotic data into clean, reliable systems that others can build on.
 
 <br>
 

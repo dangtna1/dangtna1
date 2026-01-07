@@ -44,14 +44,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/-C-555555?logo=c&logoColor=white)
 <br>
 
-## GitHub Thropies 🏆
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dangtna1)](https://github.com/dangtna1/github-profile-trophy)
-
-<br>
-
 ## Activity Graph 📊
 
 <br>

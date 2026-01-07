@@ -18,7 +18,8 @@
 
 - 🏢 I am currently working as a **Data Engineer** at [University of Lincoln for AutoTraits Project](https://www.lincoln.ac.uk/liat/research/roboticphenotyping/)
 - 🏢 Former **Game Developer** at [Synx Games LTD](https://synx.games/)
-- 🏢 Former **Software Engineer** at [Codelight](https://codelight.co/)
+- 🏢 Former **Software & Data Integration Engineer** at [Codelight](https://codelight.co/)
+- 🏢 Former Full Stack Developer at [TecAlliance](https://www.tecalliance.net/) & [iDeaLogic](https://www.idealogic.com.vn/)
 - 🎓 Studying MSc Data Science and Applied Analytics at [University of Lincoln](https://www.lincoln.ac.uk/)
 - 🎓 Studied BSc at [University of Technology (HCMUT)](https://hcmut.edu.vn/en)
 - 🏡 Living in **Lincoln, UK**
